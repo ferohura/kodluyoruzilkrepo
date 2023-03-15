@@ -2,7 +2,7 @@
 Kodluyoruz eğitimi kapsamında açtığım ilk repo
 # Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
-git clone https://github.com/ferohura/kodluyoruzilkrepo
+![(git clone https://github.com/ferohura/kodluyoruzilkrepo)]
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
